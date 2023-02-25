@@ -1,0 +1,48 @@
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2.2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\ООП\Paint2.4\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Амир\Desktop\Новая папка\Paint2.4 — копия\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\C#\Лаба 5\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\httbs\Desktop\C# labs oop\laba2\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\BMW\Desktop\laba2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\BMW\Desktop\laba2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\BMW\Desktop\laba2\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\BMW\Desktop\laba2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BMW\Desktop\laba2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\BMW\Desktop\laba2\ClassLibrary\obj\Debug\ClassLibrary.pdb
