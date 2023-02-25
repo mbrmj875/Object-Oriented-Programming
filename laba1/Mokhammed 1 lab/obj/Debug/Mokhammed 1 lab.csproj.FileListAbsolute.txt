@@ -1,0 +1,33 @@
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe.config
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.pdb
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.AssemblyReference.cache
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Form1.resources
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Properties.Resources.resources
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.GenerateResource.cache
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.exe
+C:\Users\httbs\Desktop\VS labs\C++\laba6\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.pdb
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe.config
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.pdb
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.AssemblyReference.cache
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Form1.resources
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Properties.Resources.resources
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.GenerateResource.cache
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.exe
+C:\Users\BMW\Desktop\oop\Mokhammed 1 lab\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.pdb
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe.config
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.exe
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\bin\Debug\Mokhammed 1 lab.pdb
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.AssemblyReference.cache
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Form1.resources
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed_1_lab.Properties.Resources.resources
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.GenerateResource.cache
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.exe
+C:\Users\BMW\Desktop\oop\laba1\Mokhammed 1 lab\obj\Debug\Mokhammed 1 lab.pdb
